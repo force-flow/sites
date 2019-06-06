@@ -1,0 +1,27 @@
+.flex{
+	display: flex;
+	text-align: center;
+	height: 313px;
+	margin-top: 200px;
+}
+
+img{
+	width: 150px;
+}
+.block{
+	margin-left: 80px;
+	text-align: center;
+}
+
+h3{
+	font-weight: 100;
+	font-family: Arial;
+	margin-top: 20px;
+	font-size: 28px;
+}
+
+h2{
+	color: red;
+	font-weight: 100;
+	font-family: Arial;
+}
